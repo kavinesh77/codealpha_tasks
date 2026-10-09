@@ -65,3 +65,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/kavinesh77/codealpha_tasks.git
 cd codealpha_tasks
+
+<img width="1637" height="785" alt="image" src="https://github.com/user-attachments/assets/b37ad6fb-cbca-4758-9461-957bee1429cb" />
+<img width="1652" height="827" alt="image" src="https://github.com/user-attachments/assets/529aad99-1202-4f96-aac1-d5a3e0dc55b4" />
+<img width="1752" height="890" alt="image" src="https://github.com/user-attachments/assets/daa88da0-7143-47f1-babd-90f885882a84" />
+
