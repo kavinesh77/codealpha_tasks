@@ -25,6 +25,8 @@ An AI-powered website chatbot developed using Python and Flask.
 - HTML
 - CSS
 - JavaScript
+<img width="837" height="876" alt="image" src="https://github.com/user-attachments/assets/9418ba72-0db6-4527-9bb4-c0dfaf71e960" />
+<img width="830" height="853" alt="image" src="https://github.com/user-attachments/assets/1ee23f66-471a-458b-b879-8ca121be9f92" />
 
 ## How to Run
 
